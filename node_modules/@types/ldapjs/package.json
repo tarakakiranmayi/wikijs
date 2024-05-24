@@ -1,0 +1,42 @@
+{
+    "name": "@types/ldapjs",
+    "version": "2.2.5",
+    "description": "TypeScript definitions for ldapjs",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ldapjs",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Charles Villemure",
+            "url": "https://github.com/cvillemure",
+            "githubUsername": "cvillemure"
+        },
+        {
+            "name": "Peter Kooijmans",
+            "url": "https://github.com/peterkooijmans",
+            "githubUsername": "peterkooijmans"
+        },
+        {
+            "name": "Pablo Moleri",
+            "url": "https://github.com/pmoleri",
+            "githubUsername": "pmoleri"
+        },
+        {
+            "name": "Michael Scott-Nelson",
+            "url": "https://github.com/mscottnelson",
+            "githubUsername": "mscottnelson"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/ldapjs"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "916b6e70860ae08b340211b382a58e2d038ab793bd8028216ee5870c4b2a35a1",
+    "typeScriptVersion": "4.1"
+}

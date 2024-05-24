@@ -1,0 +1,22 @@
+{
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "eslint.validate": [
+    "typescript"
+  ],
+  "files.exclude": {
+    ".git": true,
+    "node_modules": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 140,
+  "importSorter.importStringConfiguration.tabSize": 2,
+  "importSorter.sortConfiguration.importMembers.order": "lowercaseLast",
+  "importSorter.sortConfiguration.importPaths.order": "lowercaseLast",
+  "importSorter.sortConfiguration.removeUnusedImports": true,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.quoteStyle": "single"
+}
